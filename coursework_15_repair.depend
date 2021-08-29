@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622996666 source:c:\users\ainur\documents\codeblocksprojects\coursework_15_repair\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<ctime>
+	<conio.h>
+
